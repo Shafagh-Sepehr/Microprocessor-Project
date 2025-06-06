@@ -36,20 +36,3 @@ Course spec highlights → our implementation:
 
 All parts are stock Proteus items—no custom models needed.
 
----
-
-## 🚀 Getting Started
-
-### Prerequisites
-* **Proteus 8.x** or later  
-* **avr-gcc** tool-chain (tested with AVR-GCC 8)  
-* `make` (optional)
-
-### Quick run
-```bash
-git clone https://github.com/<you>/door-lock-atmega32.git
-cd door-lock-atmega32
-# open simulation
-#   Proteus → micro/2-6.pdsprj
-# build firmware
-make all
