@@ -20,8 +20,6 @@ Course spec highlights → our implementation:
 | Display team names & IDs on startup | `show_names()` scrolls credits across 16×2 LCD. |
 | Bonus: keypad **interrupt** read & back-space | INT2 on PB2 launches keypad ISR; key `'B'` acts as back-space. |
 
-(Original Persian brief excerpts shown in **micro project_2.pdf** for reference) 
-
 ---
 
 ## 🛠️ Hardware (Simulated)
