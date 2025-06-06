@@ -1,10 +1,6 @@
 # 🔐 Dual-ATmega32 Door-Lock System (Micro-Project)
 
-> No more lost keys—just pure 8-bit panache.
-
-![Build](https://img.shields.io/badge/build-status-passing-brightgreen)
 ![MCU](https://img.shields.io/badge/MCU-ATmega32-ff69b4)
-![License](https://img.shields.io/badge/license-MIT-blue)
 
 This repo contains a complete **two-microcontroller** electronic door-lock simulator.  
 One AVR handles user I/O (*transmitter*), the other drives the lock (*receiver*)—all modelled in **Proteus** and written in neat C.
